@@ -1,16 +1,20 @@
-# earth_ui_3d
 
-A new Flutter project.
 
-## Getting Started
+# Earth 3D 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+###  Packages used in the project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Dio](https://pub.dev/packages/dio)
+- [internet_connection_checker](https://pub.dev/packages/internet_connection_checker)
+- [equatable](https://pub.dev/packages/equatable)
+- [dartz](https://pub.dev/packages/dartz)
+- [bloc](https://pub.dev/packages/bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [hexcolor](https://pub.dev/packages/hexcolor)
+- [get_it](https://pub.dev/packages/get_it)
+- [intl](https://pub.dev/packages/intl)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  in the project:
+- Clean code
+- Clean architecture
